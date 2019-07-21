@@ -1,5 +1,7 @@
 <template>
-  <div class="app-footer" />
+  <div class="app-footer">
+    <public-footer />
+  </div>
 </template>
 
 <script>
@@ -16,4 +18,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.app-footer{
+  width: 100%;
+  margin: 0px auto;
+}
 </style>
