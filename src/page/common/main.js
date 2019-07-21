@@ -14,6 +14,9 @@ import Element from 'element-ui'
 import Egrid from '@/components/element/egrid/src'
 import echarts from 'echarts'
 
+// 导入组件库
+import vueVui from '~packages/index'
+
 import API from '@/api/index'
 
 import 'normalize.css/normalize.css' // a modern alternative to CSS resets
@@ -39,6 +42,9 @@ import '@/common/directive/index'
 //   mockXHR()
 // }
 window.Vue = Vue
+
+// 注册组件库
+Vue.use(vueVui)
 Vue.use(VueAxios, axios)
 
 Vue.use(Element, {

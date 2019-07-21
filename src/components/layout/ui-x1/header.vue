@@ -1,5 +1,6 @@
 <template>
   <div class="app-header">
+    <public-header />
     <div class="app-logo" />
     <el-menu :default-active="activeIndex" class="app-menu" mode="horizontal" @select="handleSelect">
       <el-menu-item index="1">首页</el-menu-item>

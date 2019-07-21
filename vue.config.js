@@ -29,7 +29,8 @@ module.exports = {
         '@components': resolve('src/components'),
         '@store': resolve('src/store'),
         '@page': resolve('src/page'),
-        '~': resolve('packages')
+        '~packages': resolve('packages'),
+        '~lib': resolve('lib')
       }
     }
   },
