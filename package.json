@@ -1,9 +1,9 @@
 {
-  "name": "vue-lui",
-  "version": "4.2.1",
-  "description": "vue-lui",
+  "name": "@firecodes/vue-lui",
+  "version": "1.0.0",
+  "description": "@firecodes/vue-lui",
   "main": "lib/vue-lui.umd.min.js",
-  "author": "vue-lui",
+  "author": "firecodes",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
