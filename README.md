@@ -1,7 +1,7 @@
 # vue-lui
 vue-lui  业务UI组件库
 
-# 业务 UI 组件
+# 业务 UI 组件 (基于element-ui 二次组件开发，全局使用项目之前，需将element-ui升级到2.9以上版本)
   1. 头部组件
   2. 底部组件
   3. 登录组件
@@ -20,7 +20,7 @@ npm install
 # develop
 npm run dev
 
-# lib 
+# lib  组件打包
 npm run lib
 ```
 
