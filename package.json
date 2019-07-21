@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "@firecodes/vue-lui",
   "main": "lib/vue-lui.umd.min.js",
-  "author": "firecodes",
+  "author": {
+    "name": "firecodes",
+    "url": "https://github.com/firecodes",
+    "email": "384502958@qq.com"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
