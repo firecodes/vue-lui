@@ -1,12 +1,11 @@
 {
   "name": "@firecodes/vue-lui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@firecodes/vue-lui",
   "main": "lib/vue-lui.umd.min.js",
   "author": {
     "name": "firecodes",
-    "url": "https://github.com/firecodes",
-    "email": "384502958@qq.com"
+    "url": "https://github.com/firecodes"
   },
   "license": "MIT",
   "scripts": {

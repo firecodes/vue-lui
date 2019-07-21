@@ -1,7 +1,7 @@
-# vue-lui
-vue-lui  业务UI组件库
+# @firecodes/vue-lui
+@firecodes/vue-lui  业务UI组件库
 
-# 业务 UI 组件 (基于element-ui 二次组件开发，全局使用项目之前，需将element-ui升级到2.9以上版本)
+# 业务 UI 组件 (基于element-ui 二次组件开发，需将element-ui升级到2.10以上版本)
   1. 头部组件
   2. 底部组件
   3. 登录组件
@@ -11,9 +11,11 @@ vue-lui  业务UI组件库
 ## Features
 - Powered by Vue Cli 3
 
+# 本地项目 安装 依赖包
+ npm i element-ui vue-axios vxe-utils xe-utils -S
+
 #### NPM
  npm i @firecodes/vue-lui -S
-
 
 # 本地环境运行------http://localhost:8888
 ## npm registry
