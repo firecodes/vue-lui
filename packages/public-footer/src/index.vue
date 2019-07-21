@@ -4,7 +4,8 @@
     <!-- body -->
     <div class="top">
       <div class="row row1">
-        <img class="lui-logo">
+        <div class="title about">目标</div>
+        <!-- <img class="lui-logo"> -->
         <div class="slogan"><span>智连接</span><span class="know-world">慧世界</span></div>
       </div>
       <div class="row row2">

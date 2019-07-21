@@ -18,7 +18,7 @@
     <div class="top-nav-r">
       <div class="user">
         <el-popover placement="bottom" title="" width="200" trigger="hover" content="11">
-          <el-avatar class="user-avatar" slot="reference" icon="el-icon-user-solid">user </el-avatar>
+          <el-avatar slot="reference" class="user-avatar" icon="el-icon-user-solid">user</el-avatar>
         </el-popover>
       </div>
     </div>
